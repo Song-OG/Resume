@@ -28,3 +28,7 @@
 |Java 프로그래밍|java 개요|3|
 |이산구조론|이산 수학|3|
 
+github address : [Song-OG][github]
+
+[github]:http://github.com/Song-OG
+
