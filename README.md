@@ -82,6 +82,9 @@
 * 한글 활용
 * 스크래치 게임 만들기
 ---
+# 동아리
+## 2022년 1학기 VIP 가입
+---
 github address : [Song-OG][github]
 
 [github]:http://github.com/Song-OG
