@@ -49,6 +49,7 @@
 |소프트웨어세미나1|공통전선|1|
 |데이터사이언스기초|공통전선|3|
 
+---
 github address : [Song-OG][github]
 
 [github]:http://github.com/Song-OG
