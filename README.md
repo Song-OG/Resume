@@ -2,4 +2,4 @@
 ---
 ![이력서사진](syj.jpg)
 
-<img scr=syj.jpg height=500 width=500>
+<img src=syj.jpg height=500 width=500>
